@@ -1,0 +1,15 @@
+RANDOM EVENTS
+------------------------------
+
+In the clearing ahead you see a person standing over a ragged corpse. They turn towards you.
+
+1) In your presence they lower their weapons: they are not interested in
+   hurting you. They step closer to speak.
+
+   "This man--this _wretch_--tried to steal food from me. He left me no choice; I struck him down."
+
+   The silence gives way to the neon stream flitting and lapping over the rocks. The <person> steps aside to let you pass.
+
+------------------------------
+
+You've reached %town_name%.

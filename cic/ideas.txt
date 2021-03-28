@@ -1,0 +1,21 @@
+-------------------------------------
+
+Meditation:
+
+player sprite/shape in the middle.
+
+orbs float into the center from the outside.
+
+you control your own orb. this is your "awareness".
+
+hover your orb over another and hold both triggers over it. it should dissipate.
+
+hover your orb back over the player. alternate left and right triggers in regular intervals.
+OR hold in triggers until about 80% down, hold, then release.
+
+this process increases your awareness stat.
+
+another idea: dissipating these orbs adds some information to like...a log or something?
+anyway, it should add some interesting LORE or provide something other than stat boosts.
+
+-------------------------------------
